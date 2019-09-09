@@ -1,0 +1,15 @@
+{
+  "version": "0.0.0",
+  "packages": [
+    "functions/*",
+    "packages/*"
+  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "version": {
+      "message": "chore(release): %s",
+      "createRelease": "github"
+    }
+  }
+}
