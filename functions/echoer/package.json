@@ -7,10 +7,10 @@
     "@packages/is-asynchronous-lambda-event": "^0.0.0"
   },
   "peerDependencies": {
-    "aws-sdk": "2.488.0"
+    "aws-sdk": "2.814.0"
   },
   "devDependencies": {
-    "aws-sdk": "2.488.0",
+    "aws-sdk": "2.814.0",
     "cz-conventional-changelog": "3.0.2"
   }
 }
